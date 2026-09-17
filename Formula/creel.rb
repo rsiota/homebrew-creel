@@ -1,8 +1,8 @@
 class Creel < Formula
   desc "Fast, vim-driven SQL TUI for SQLite, MySQL, and PostgreSQL"
   homepage "https://github.com/rsiota/creel"
-  url "https://github.com/rsiota/creel/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "03bf8bfb16acfe5d49a597212750c4ae33a2ca0e970b431d1a763b4088c44bde"
+  url "https://github.com/rsiota/creel/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "4d448d3662c745b400b69c9cb687fb418a628f6308e70bb7af47e6c2c35a54af"
   license "MIT"
   head "https://github.com/rsiota/creel.git", branch: "main"
 
